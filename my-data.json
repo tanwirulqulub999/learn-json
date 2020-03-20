@@ -1,0 +1,28 @@
+{
+    "nickname" : "khusaeni al-qobinnadhzifi",
+    "age" : "17 years old",
+    "ttl" : {
+        "object-regency" : "Tegal",
+        "tanggal" : "31",
+        "month" : "Agustus",
+        "years" : "2002"
+    },
+    "full-location" : {
+        "RT" : "29",
+        "RW" : "06",
+        "village" : "Bedug",
+        "kec" : "Pangkah",
+        "Regency" : "Tegal",
+        "Province" : "Central Java",
+        "country" : "Indonesia"
+    },
+    "myhoby" : "learn programming/coding or matters relating to IT science",
+    "cita-cita" : "The Developers",
+    "developer" : {
+        "web developer" : {
+            "frontend" : ["HTML","CSS","JavaScript","React.js","Three.js","Bootstrap","etc."],
+            "backend" : ["Node.js","Express","MongoDB","AJAX","Axios","Socket.IO","etc."],
+            "fullstack" : ["HTML","CSS","JS","NodeJS","Express","React.js","Three.js","Bootstrap","TensorFlowJS","MongoDB","AJAX","Axios","socket.io","etc."]
+        }
+    }
+}
